@@ -2,11 +2,12 @@
 > This is the ` Fake JSON ` server tutorial notes 
 
 - FILTERING : 
-  - filtering the data 
-  ` http://localhost:3000/products?category=electronics `
+    - 
+    - filtering the data 
+    ` http://localhost:3000/products?category=electronics `
 
-  - filtering the data with nested items 
-  ` http://localhost:3000/products?category=electronics&discount.type=shipping `
+    - filtering the data with nested items 
+    ` http://localhost:3000/products?category=electronics&discount.type=shipping `
 
 
 - SORTING :
