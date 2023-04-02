@@ -2,9 +2,9 @@
 > This is the ` Fake JSON ` server tutorial notes 
 
 - GET
-    - Getting the data 
-    - ` http://localhost:3000/products ` 
-    - ` http://localhost:3000/reviews `
+    - Getting the data \
+    ` http://localhost:3000/products ` \
+    ` http://localhost:3000/reviews `
 
 - FILTERING : 
     - filtering the data \
