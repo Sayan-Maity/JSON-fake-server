@@ -11,10 +11,10 @@
 
 - SORTING :
     - sorting the data (ascending) & (descending) \
-    ` http://localhost:3000/products?_sort=price `
+    ` http://localhost:3000/products?_sort=price ` \
     ` http://localhost:3000/products?_sort=price&_order=desc `
 
-    - sorting the data (let say 3 different items have same price)
+    - sorting the data (let say 3 different items have same price) \
     ` http://localhost:3000/products?_sort=price,category&_order=desc,asc `
 
 
